@@ -1,0 +1,18 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt f5" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="me.scana.okgradle.ok">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+</keymap>

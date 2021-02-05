@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="mucMembersAvatar" type="PLAIN_TEXT" />
+      <mapping ext="crc" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="db-wal" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
